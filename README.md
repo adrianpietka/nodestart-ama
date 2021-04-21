@@ -2,10 +2,11 @@
 
 Cześć, nazywam się **[Adrian Piętka](https://adrianpietka.com)**. Na co dzień jestem programującym CTO w [Emphie Solutions](https://emphie.com/). Projektuję, tworzę oraz wdrażam rozwiązania oparte o Node.js.
 
-Tutaj stworzyłem miejsce na **zadawanie dowolnych pytań, związanych z Node.js**. Dwie najważniejsze akcje w tym repozytorium to:
+Tutaj stworzyłem miejsce do **zadawania dowolnych pytań, związanych z Node.js**. Najważniejsze akcje w tym repozytorium to:
 
-- [Zadaj pytanie](https://github.com/adrianpietka/nodestart-ama/issues/new) - utwórz nowy *issue*, aby zadać pytanie;
-- [Przeczytaj odpowiedzi](https://github.com/adrianpietka/nodestart-ama/issues?q=is%3Aissue+is%3Aclosed) - rzuć okiem na pytania, na które już odpowiedziałem;
+- [Zadaj pytanie](https://github.com/adrianpietka/nodestart-ama/discussions/new) - utwórz nowy wpis w *discussions*, aby zadać pytanie;
+- [Zobacz wszystkie pytania](https://github.com/adrianpietka/nodestart-ama/discussions) - lista wszystkich zadanych pytań;
+- [Przeczytaj odpowiedzi](https://github.com/adrianpietka/nodestart-ama/discussions?discussions_q=is%3Aanswered) - rzuć okiem na pytania, na które już odpowiedziałem;
 
 Aby być na bieżąco z tym, co się tutaj dzieje, [subskrybuj repozytorium](https://github.com/adrianpietka/nodestart-ama/subscription).
 
@@ -21,9 +22,9 @@ Aby merytoryka zadawanych wypowiedzi była utrzymywana na odpowiednim poziomie:
 
 - Sprawdź, czy wcześniej już ktoś nie zapytał o to samo;
 - Zwięźle sformułuj tytuł oraz opis pytania;
-- [Sprawdź gramatykę wypowiedzi, błędy ortograficzne i interpunkcyjne](https://www.ortograf.pl/);
+- Dodaj swoje pytanie do odpowiedniej kategorii;
 - Jeśli to możliwe, posiłkuj się każdym dodatkowym zasobem w postaci: kodu, screenshotu, linku, artykułu, wideo;
-- Oznacz swoje pytanie [odpowiednimi etykietami](https://github.com/adrianpietka/nodestart-ama/labels);
+- [Sprawdź gramatykę wypowiedzi, błędy ortograficzne i interpunkcyjne](https://www.ortograf.pl/);
 - Gdy uzyskasz odpowiedź, daj znać czy Ci pomogła;
 
 ## 💬 Odpowiedzi
